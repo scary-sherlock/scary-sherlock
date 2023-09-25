@@ -61,14 +61,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/scary-sherlock/scary-sherlock/output/snake.svg" alt="Snake animation" />
-
-###- 👋 Hi, I’m @scary-sherlock
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-scary-sherlock/scary-sherlock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
