@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="170" width="170" src="https://s6.gifyu.com/images/S4fma.gif"  />
+<img align="right" height="200" width="200" src="https://s6.gifyu.com/images/S4fma.gif"  />
 
 ###
 
